@@ -1,4 +1,4 @@
-# 0x10. ES6 classes
+# ES6 classes
 
 ## Description
 
@@ -60,4 +60,4 @@ What you should learn from this project:
 
 ## Author
 
-**Joshua Martinez** - [dantsub](https://github.com/dantsub)
+**Girum** 
